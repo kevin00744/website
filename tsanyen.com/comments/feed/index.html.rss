@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	《璨妍 tsanyen》的留言	</title>
+	<atom:link href="https://tsanyen.com/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://tsanyen.com</link>
+	<description>璨妍 TSANYEN 致力於將生物科技導入日常護理。我們以科學實證為基石，確保每一滴精華皆具備極致純淨的高活性。透過奈米級傳導技術實現精準修護，為敏弱與受損肌膚重建健康屏障，定義美業新標準。</description>
+	<lastBuildDate>Thu, 18 Dec 2025 00:21:48 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=7.0</generator>
+	<item>
+		<title>
+		「A WordPress Commenter」發佈於〈Hello world!〉的留言		</title>
+		<link>https://tsanyen.com/hello-world/#comment-1</link>
+
+		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
+		<pubDate>Thu, 18 Dec 2025 00:21:48 +0000</pubDate>
+		<guid isPermaLink="false">https://tsanyen.com/?p=1#comment-1</guid>
+
+					<description><![CDATA[Hi, this is a comment.
+To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
+Commenter avatars come from &lt;a href=&quot;https://gravatar.com/&quot;&gt;Gravatar&lt;/a&gt;.]]></description>
+			<content:encoded><![CDATA[<p>Hi, this is a comment.<br />
+To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.<br />
+Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

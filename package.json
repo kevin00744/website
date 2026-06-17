@@ -1,0 +1,32 @@
+{
+    "private": true,
+    "type": "module",
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build"
+    },
+    "devDependencies": {
+        "@tailwindcss/forms": "^0.5.7",
+        "@tailwindcss/typography": "^0.5.13",
+        "@vitejs/plugin-vue": "^5.0.4",
+        "autoprefixer": "^10.4.19",
+        "axios": "^1.6.4",
+        "laravel-vite-plugin": "^1.0",
+        "postcss": "^8.4.38",
+        "tailwindcss": "^3.4.3",
+        "vite": "^5.0"
+    },
+    "dependencies": {
+        "@inertiajs/vue3": "^2.0",
+        "@tiptap/extension-bold": "^2.4.0",
+        "@tiptap/extension-heading": "^2.4.0",
+        "@tiptap/extension-image": "^2.4.0",
+        "@tiptap/extension-link": "^2.4.0",
+        "@tiptap/pm": "^2.4.0",
+        "@tiptap/starter-kit": "^2.4.0",
+        "@tiptap/vue-3": "^2.4.0",
+        "grapesjs": "^0.23.2",
+        "grapesjs-blocks-basic": "^1.0.2",
+        "vue": "^3.4.0"
+    }
+}
